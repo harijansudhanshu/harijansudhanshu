@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harijansudhanshu
+- 👋 Hi, I’m @sudhanshukumar
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ...
